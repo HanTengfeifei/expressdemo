@@ -1,0 +1,22 @@
+{
+  "name": "exp",
+  "version": "0.0.1",
+  "description": "this is my first express project",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanTengfeifei/expressdemo.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "tfhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HanTengfeifei/expressdemo/issues"
+  },
+  "homepage": "https://github.com/HanTengfeifei/expressdemo#readme"
+}
